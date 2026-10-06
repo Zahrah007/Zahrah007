@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Zahrah007/Zahrah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zahrah, a Computer Science student in London
 
-Here are some ideas to get you started:
+I'm an aspiring Software Engineer, seeking intership opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that can solve real-world problems, using languages **Python** and **Javascript**.
+
+I'm consistently learning and honing my skills and techniques in these languages, with my key strengths in **Object-Oriented Programming**, **Problem Solving** and **Data Strctures and Algorithms**
+
+You'll find a few pinned projects on my profile, with my personal favourite being the **Outlook Simulator**.
+
+
+-----
+### Fun Facts!
+- I'm one of six siblings
+- I know how to use a sewing machine
+- I dont like coffee
+- I enjoy cooking
