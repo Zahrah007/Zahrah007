@@ -15,5 +15,5 @@ You'll find a few pinned projects on my profile, with my personal favourite bein
 ### Fun Facts!
 - I'm one of six siblings
 - I know how to use a sewing machine
-- I dont like coffee
+- I don't like coffee
 - I enjoy cooking
